@@ -2,6 +2,9 @@ body {
     color: darkred;
     background-color: black;
 
-
     
+}
+
+header{
+   border: solid 2px rgb(42, 128, 228);
 }

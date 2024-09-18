@@ -7,5 +7,10 @@ body {
 
 header{
    border: solid 2px rgb(42, 128, 228);
-   margin-top: 20px;
+   margin: 20px;
+}
+
+section {
+background: rgb(184, 156, 213)
+
 }
